@@ -1,4 +1,4 @@
-# Laravel Kubernetes Demo Application
+# Laravel Kubernetes Application with Nginx
 
 A simple Laravel Demo Application for a Kubernetes Tutorial.
 
